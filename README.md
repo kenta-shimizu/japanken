@@ -1,2 +1,7 @@
-# japanken
-JAPAN information
+# 日本
+
+## 都道府県
+
+- 北海道
+- 青森
+
